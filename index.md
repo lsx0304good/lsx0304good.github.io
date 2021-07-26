@@ -4,6 +4,9 @@
 ### [Vcatcher](https://github.com/lsx0304good/sli0304_crawler/tree/master/Vcatcher) 
 - A [Scrapy](https://scrapy.org/) framework crawler project which crawls videos from an open source platform, all records saved via MySQL.
 
+### [eFresh](https://github.com/lsx0304good/djangop/tree/master/simonshop)
+- RESTful, mobile app, Django framework, MySQL.
+
 
 
 You can use the [editor on GitHub](https://github.com/lsx0304good/lsx0304good.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
